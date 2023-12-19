@@ -12,4 +12,8 @@ public class SomeClass {
     public void partner1Method(){
         System.out.println("yay");
     }
+
+    public void ermm() {
+        System.out.println("erm!");
+    }
 }
