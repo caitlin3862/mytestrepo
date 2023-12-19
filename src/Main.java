@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("hiihiii");
         System.out.println("hallo!");
-        System.out.println("woahhhh");
+        System.out.println("yippeee");
         System.out.println("#codinggirlies");
     }
 }
